@@ -1,2 +1,2 @@
 # nian-record
-学习
+学习算法、leetcode刷题
